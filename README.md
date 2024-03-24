@@ -1,4 +1,4 @@
-# Build a Palindrome Checker (freeCodeCamp Certifications)
+# EN - Build a Palindrome Checker (freeCodeCamp Certifications)
 A palindrome is a word or phrase that can be read the same way forwards and backwards, ignoring punctuation, case, and spacing.
 
 Note: You'll need to remove all non-alphanumeric characters (punctuation, spaces, and symbols) and turn everything into the same case (lower or upper case) in order to check for palindromes.
@@ -28,7 +28,7 @@ User Stories:
 
 ---
 
-# Costruisci un Verificatore di Palindrome (Certificato freeCodeCamp)
+#IT - Costruisci un Verificatore di Palindrome (Certificato freeCodeCamp)
 Una parola o frase palindroma è una sequenza di caratteri che può essere letta allo stesso modo sia da sinistra a destra che da destra a sinistra, ignorando punteggiatura, maiuscole e spaziatura.
 
 **Nota:** Dovrai rimuovere tutti i caratteri non alfanumerici (punteggiatura, spazi e simboli) e convertire tutto nella stessa forma (maiuscolo o minuscolo) per verificare le parole palindrome.
