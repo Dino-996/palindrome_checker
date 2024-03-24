@@ -28,7 +28,7 @@ User Stories:
 
 ---
 
-#IT - Costruisci un Verificatore di Palindrome (Certificato freeCodeCamp)
+# IT - Costruisci un Verificatore di Palindrome (Certificato freeCodeCamp)
 Una parola o frase palindroma è una sequenza di caratteri che può essere letta allo stesso modo sia da sinistra a destra che da destra a sinistra, ignorando punteggiatura, maiuscole e spaziatura.
 
 **Nota:** Dovrai rimuovere tutti i caratteri non alfanumerici (punteggiatura, spazi e simboli) e convertire tutto nella stessa forma (maiuscolo o minuscolo) per verificare le parole palindrome.
